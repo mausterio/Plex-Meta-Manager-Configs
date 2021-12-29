@@ -1,69 +1,4 @@
 collections:
-  1+1:
-    template:
-      name: network
-      network: '1254'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/1%2B1/poster.jpg
-  10 Play:
-    template:
-      name: network
-      network: '3466'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/10%20Play/poster.jpg
-  100 TV:
-    template:
-      name: network
-      network: '3191'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/100%20TV/poster.jpg
-  13th Street:
-    template:
-      name: network
-      network: '1828'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/13th%20Street/poster.jpg
-  3+:
-    template:
-      name: network
-      network: '2527'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/3%2B/poster.jpg
-  3sat:
-    template:
-      name: network
-      network: '1132'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/3sat/poster.jpg
-  4fun.tv:
-    template:
-      name: network
-      network: '2196'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/4fun.tv/poster.jpg
-  5Star:
-    template:
-      name: network
-      network: '507'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/5Star/poster.jpg
-  5USA:
-    template:
-      name: network
-      network: '842'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/5USA/poster.jpg
-  6ter:
-    template:
-      name: network
-      network: '2230'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/6ter/poster.jpg
-  7TWO:
-    template:
-      name: network
-      network: '1545'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/7TWO/poster.jpg
-  7mate:
-    template:
-      name: network
-      network: 2562,1721
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/7mate/poster.jpg
-  8TV:
-    template:
-      name: network
-      network: '300'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/8TV/poster.jpg
   A&E:
     template:
       name: network
@@ -99,11 +34,6 @@ collections:
       name: network
       network: '601'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ABC%20News/poster.jpg
-  ABC Nyheter:
-    template:
-      name: network
-      network: '2488'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ABC%20Nyheter/poster.jpg
   ABC Spark:
     template:
       name: network
@@ -114,16 +44,6 @@ collections:
       name: network
       network: '5069'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ABC%20TV%20Plus/poster.jpg
-  ABC iview:
-    template:
-      name: network
-      network: '1327'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ABC%20iview/poster.jpg
-  ABEMA:
-    template:
-      name: network
-      network: '1521'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ABEMA/poster.jpg
   ABS-CBN:
     template:
       name: network
@@ -189,36 +109,17 @@ collections:
       name: network
       network: '3528'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ARTE%20Creative/poster.jpg
-  ARY Digital:
-    template:
-      name: network
-      network: '815'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ARY%20Digital/poster.jpg
-  ASN:
-    template:
-      name: network
-      network: '578'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ASN/poster.jpg
   AT-X:
     template:
       name: network
       network: '173'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/AT-X/poster.jpg
-  AVA:
-    template:
-      name: network
-      network: '1397'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/AVA/poster.jpg
   AVRO:
     template:
       name: network
       network: '636'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/AVRO/poster.jpg
-  AVROTROS:
-    template:
-      name: network
-      network: '1227'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/AVROTROS/poster.jpg
+
   AXN:
     template:
       name: network
@@ -334,11 +235,6 @@ collections:
       name: network
       network: 3627,2781,91
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Animal%20Planet/poster.jpg
-  Animal Planet Brasil:
-    template:
-      name: network
-      network: '4454'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Animal%20Planet%20Brasil/poster.jpg
   Antena 1:
     template:
       name: network
@@ -419,11 +315,6 @@ collections:
       name: network
       network: '2998'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Azrbaycan%20Televiziyas/poster.jpg
-  Azteca Amrica:
-    template:
-      name: network
-      network: '810'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Azteca%20Amrica/poster.jpg
   Azteca Trece:
     template:
       name: network
@@ -839,16 +730,6 @@ collections:
       name: network
       network: 3917,2193,1232,217,56
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Cartoon%20Network/poster.jpg
-  Cartoon Network Latin America:
-    template:
-      name: network
-      network: '1483'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Cartoon%20Network%20Latin%20America/poster.jpg
-  Cartoonito:
-    template:
-      name: network
-      network: '1261'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Cartoonito/poster.jpg
   Channel 1:
     template:
       name: network
@@ -929,21 +810,11 @@ collections:
       name: network
       network: '4118'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Children%20Channel/poster.jpg
-  Chilevisin:
-    template:
-      name: network
-      network: '805'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Chilevisin/poster.jpg
   Chiller:
     template:
       name: network
       network: '1341'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Chiller/poster.jpg
-  Christian Broadcasting Network:
-    template:
-      name: network
-      network: '680'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Christian%20Broadcasting%20Network/poster.jpg
   Cinemax:
     template:
       name: network
@@ -979,11 +850,6 @@ collections:
       name: network
       network: '3575'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Comedy%20Central%20Netherlands/poster.jpg
-  Commercial Television:
-    template:
-      name: network
-      network: '4157'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Commercial%20Television/poster.jpg
   Cooking Channel:
     template:
       name: network
@@ -1109,16 +975,6 @@ collections:
       name: network
       network: '78'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/DWAO-TV/poster.jpg
-  Das Erste:
-    template:
-      name: network
-      network: '442'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Das%20Erste/poster.jpg
-  Das Vierte:
-    template:
-      name: network
-      network: '1200'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Das%20Vierte/poster.jpg
   Dave:
     template:
       name: network
@@ -1204,11 +1060,6 @@ collections:
       name: network
       network: '958'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Domo%2B/poster.jpg
-  Dove Channel:
-    template:
-      name: network
-      network: '1874'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Dove%20Channel/poster.jpg
   Dplay:
     template:
       name: network
@@ -1229,11 +1080,6 @@ collections:
       name: network
       network: '162'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/DuMont%20Television%20Network/poster.jpg
-  Dubai TV:
-    template:
-      name: network
-      network: '545'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Dubai%20TV/poster.jpg
   Duna TV:
     template:
       name: network
@@ -1304,16 +1150,6 @@ collections:
       name: network
       network: '990'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ETV/poster.jpg
-  EWTN Televisin:
-    template:
-      name: network
-      network: '1895'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/EWTN%20Televisin/poster.jpg
-  Ecuavisa:
-    template:
-      name: network
-      network: '2472'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Ecuavisa/poster.jpg
   Eden:
     template:
       name: network
@@ -1339,11 +1175,6 @@ collections:
       name: network
       network: '532'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Esquire%20Network/poster.jpg
-  Eurosport:
-    template:
-      name: network
-      network: '675'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Eurosport/poster.jpg
   Exxen:
     template:
       name: network
@@ -1439,16 +1270,6 @@ collections:
       name: network
       network: '1414'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Fox%20Crime/poster.jpg
-  Fox Footy:
-    template:
-      name: network
-      network: '2316'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Fox%20Footy/poster.jpg
-  Fox Footy Channel:
-    template:
-      name: network
-      network: '481'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Fox%20Footy%20Channel/poster.jpg
   Fox Kids:
     template:
       name: network
@@ -2114,86 +1935,16 @@ collections:
       name: network
       network: '3106'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/LCN/poster.jpg
-  LCP - Assemble nationale:
-    template:
-      name: network
-      network: '4658'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/LCP%20-%20Assemble%20nationale/poster.jpg
   LINE TV:
     template:
       name: network
       network: 4003,1671
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/LINE%20TV/poster.jpg
-  LRT Televizija:
-    template:
-      name: network
-      network: '4593'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/LRT%20Televizija/poster.jpg
   LTV1:
     template:
       name: network
       network: '1014'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/LTV1/poster.jpg
-  La 1:
-    template:
-      name: network
-      network: '443'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/La%201/poster.jpg
-  La 2:
-    template:
-      name: network
-      network: '1346'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/La%202/poster.jpg
-  La 5:
-    template:
-      name: network
-      network: '1360'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/La%205/poster.jpg
-  La Deux:
-    template:
-      name: network
-      network: '2389'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/La%20Deux/poster.jpg
-  La Fabrique Culturelle:
-    template:
-      name: network
-      network: '4124'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/La%20Fabrique%20Culturelle/poster.jpg
-  La Red:
-    template:
-      name: network
-      network: '2065'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/La%20Red/poster.jpg
-  La Sept:
-    template:
-      name: network
-      network: '2138'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/La%20Sept/poster.jpg
-  La Sexta:
-    template:
-      name: network
-      network: '3783'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/La%20Sexta/poster.jpg
-  La Trois:
-    template:
-      name: network
-      network: '3511'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/La%20Trois/poster.jpg
-  La Une:
-    template:
-      name: network
-      network: '1386'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/La%20Une/poster.jpg
-  Las Estrellas:
-    template:
-      name: network
-      network: '487'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Las%20Estrellas/poster.jpg
-  Latina Televisin:
-    template:
-      name: network
-      network: '489'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Latina%20Televisin/poster.jpg
   Laugh Out Loud:
     template:
       name: network
@@ -2529,11 +2280,6 @@ collections:
       name: network
       network: 2462,6
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/NBC/poster.jpg
-  NBC Weather Plus:
-    template:
-      name: network
-      network: '790'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/NBC%20Weather%20Plus/poster.jpg
   NBCSN:
     template:
       name: network
@@ -2714,11 +2460,6 @@ collections:
       name: network
       network: 5432,4293,3355,43
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/National%20Geographic/poster.jpg
-  National Geographic Brasil:
-    template:
-      name: network
-      network: '4227'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/National%20Geographic%20Brasil/poster.jpg
   National Geographic Channel:
     template:
       name: network
@@ -3074,11 +2815,6 @@ collections:
       name: network
       network: '828'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Planet%20Green/poster.jpg
-  Plante+ Justice:
-    template:
-      name: network
-      network: '3949'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Plante%2B%20Justice/poster.jpg
   Play UK:
     template:
       name: network
@@ -3159,16 +2895,7 @@ collections:
       name: network
       network: '434'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Pro%20TV/poster.jpg
-  ProSieben:
-    template:
-      name: network
-      network: '334'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ProSieben/poster.jpg
-  ProSieben Maxx:
-    template:
-      name: network
-      network: '3282'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ProSieben%20Maxx/poster.jpg
+
   Punt:
     template:
       name: network
@@ -3389,16 +3116,6 @@ collections:
       name: network
       network: '268'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/RV/poster.jpg
-  Radio Philippines Network:
-    template:
-      name: network
-      network: '266'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Radio%20Philippines%20Network/poster.jpg
-  Radio-Qubec:
-    template:
-      name: network
-      network: '3634'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Radio-Qubec/poster.jpg
   Rai 1:
     template:
       name: network
@@ -3439,11 +3156,6 @@ collections:
       name: network
       network: '2746'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Rang/poster.jpg
-  Razer:
-    template:
-      name: network
-      network: '2312'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Razer/poster.jpg
   Really:
     template:
       name: network
@@ -3454,11 +3166,7 @@ collections:
       name: network
       network: '2037'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Red%20Bull%20TV/poster.jpg
-  Rede Manchete:
-    template:
-      name: network
-      network: '512'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Rede%20Manchete/poster.jpg
+  
   RedeTV:
     template:
       name: network
@@ -3739,21 +3447,7 @@ collections:
       name: network
       network: '2949'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Shudder/poster.jpg
-  Sistema Brasileiro de Televiso (SBT):
-    template:
-      name: network
-      network: '128'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Sistema%20Brasileiro%20de%20Televiso%20%28SBT%29/poster.jpg
-  Sjnvarp Smans:
-    template:
-      name: network
-      network: '2855'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Sjnvarp%20Smans/poster.jpg
-  Sjuan:
-    template:
-      name: network
-      network: '854'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Sjuan/poster.jpg
+ 
   Skai:
     template:
       name: network
@@ -3854,21 +3548,11 @@ collections:
       name: network
       network: 4982,4862,658
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Smithsonian%20Channel/poster.jpg
-  Smithsonian Earth:
-    template:
-      name: network
-      network: '2572'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Smithsonian%20Earth/poster.jpg
   SnackableTV:
     template:
       name: network
       network: '3876'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/SnackableTV/poster.jpg
-  Snapchat:
-    template:
-      name: network
-      network: '2795'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Snapchat/poster.jpg
   SoHo:
     template:
       name: network
@@ -3899,16 +3583,6 @@ collections:
       name: network
       network: 732,257
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Speed/poster.jpg
-  Spektrum:
-    template:
-      name: network
-      network: 2287,1574
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Spektrum/poster.jpg
-  Spiegel Geschichte:
-    template:
-      name: network
-      network: '2701'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Spiegel%20Geschichte/poster.jpg
   Spike:
     template:
       name: network
@@ -3979,16 +3653,6 @@ collections:
       name: network
       network: '758'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Starz%20Encore/poster.jpg
-  Stream TV:
-    template:
-      name: network
-      network: '1361'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Stream%20TV/poster.jpg
-  Stream.cz:
-    template:
-      name: network
-      network: '1171'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Stream.cz/poster.jpg
   Streamz:
     template:
       name: network
@@ -4134,16 +3798,6 @@ collections:
       name: network
       network: 5258,3571,84
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TLC/poster.jpg
-  TLC Go:
-    template:
-      name: network
-      network: '2167'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TLC%20Go/poster.jpg
-  TLC UK:
-    template:
-      name: network
-      network: '1172'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TLC%20UK/poster.jpg
   TMC:
     template:
       name: network
@@ -4159,31 +3813,11 @@ collections:
       name: network
       network: 1191,41
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TNT/poster.jpg
-  TNT Espaa:
-    template:
-      name: network
-      network: '3501'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TNT%20Espaa/poster.jpg
-  TNT Latin America:
-    template:
-      name: network
-      network: '1530'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TNT%20Latin%20America/poster.jpg
-  TNT Serie:
-    template:
-      name: network
-      network: '904'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TNT%20Serie/poster.jpg
   TQS:
     template:
       name: network
       network: '2310'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TQS/poster.jpg
-  TROS:
-    template:
-      name: network
-      network: '729'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TROS/poster.jpg
   TRT 1:
     template:
       name: network
@@ -4234,21 +3868,6 @@ collections:
       name: network
       network: '101'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TV%202%20Zulu/poster.jpg
-  TV Aichi:
-    template:
-      name: network
-      network: '252'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TV%20Aichi/poster.jpg
-  TV Barrandov:
-    template:
-      name: network
-      network: '3598'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TV%20Barrandov/poster.jpg
-  TV Brasil:
-    template:
-      name: network
-      network: '1570'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TV%20Brasil/poster.jpg
   TV Centre:
     template:
       name: network
@@ -4349,21 +3968,7 @@ collections:
       name: network
       network: 456,352
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TV4/poster.jpg
-  TV5:
-    template:
-      name: network
-      network: '42'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TV5/poster.jpg
-  TV5 Monde Afrique:
-    template:
-      name: network
-      network: '3049'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TV5%20Monde%20Afrique/poster.jpg
-  TV5 Qubec Canada:
-    template:
-      name: network
-      network: '1533'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TV5%20Qubec%20Canada/poster.jpg
+
   TV6:
     template:
       name: network
@@ -4534,96 +4139,11 @@ collections:
       name: network
       network: '234'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TeenNick/poster.jpg
-  Tele 5:
-    template:
-      name: network
-      network: '595'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Tele%205/poster.jpg
-  TeleG:
-    template:
-      name: network
-      network: '735'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TeleG/poster.jpg
-  TeleHit:
-    template:
-      name: network
-      network: '527'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TeleHit/poster.jpg
-  TeleMadrid:
-    template:
-      name: network
-      network: '1308'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TeleMadrid/poster.jpg
-  TeleSUR:
-    template:
-      name: network
-      network: '668'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/TeleSUR/poster.jpg
-  Telecinco:
-    template:
-      name: network
-      network: '53'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Telecinco/poster.jpg
-  Telemundo:
-    template:
-      name: network
-      network: '193'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Telemundo/poster.jpg
-  Telemundo Puerto Rico:
-    template:
-      name: network
-      network: '1389'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Telemundo%20Puerto%20Rico/poster.jpg
-  Teletama:
-    template:
-      name: network
-      network: '715'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Teletama/poster.jpg
   Teletoon:
     template:
       name: network
       network: '83'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Teletoon/poster.jpg
-  Televen:
-    template:
-      name: network
-      network: '608'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Televen/poster.jpg
-  Televisin Nacional de Chile:
-    template:
-      name: network
-      network: '25'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Televisin%20Nacional%20de%20Chile/poster.jpg
-  Televisin Pblica Argentina:
-    template:
-      name: network
-      network: '1529'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Televisin%20Pblica%20Argentina/poster.jpg
-  Televisin de Galicia:
-    template:
-      name: network
-      network: '1314'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Televisin%20de%20Galicia/poster.jpg
-  Television Maldives:
-    template:
-      name: network
-      network: '1321'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Television%20Maldives/poster.jpg
-  Televize Seznam:
-    template:
-      name: network
-      network: '3383'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Televize%20Seznam/poster.jpg
-  Tencent Video:
-    template:
-      name: network
-      network: '2007'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Tencent%20Video/poster.jpg
-  Thai Public Broadcasting Service:
-    template:
-      name: network
-      network: '1018'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Thai%20Public%20Broadcasting%20Service/poster.jpg
   The CW:
     template:
       name: network
@@ -4684,11 +4204,6 @@ collections:
       name: network
       network: '21'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/The%20WB/poster.jpg
-  The Weather Channel:
-    template:
-      name: network
-      network: '306'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/The%20Weather%20Channel/poster.jpg
   TheBlaze:
     template:
       name: network
@@ -4709,11 +4224,6 @@ collections:
       name: network
       network: '879'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Tkai%20Television%20Broadcasting/poster.jpg
-  Tl-Qubec:
-    template:
-      name: network
-      network: '1131'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Tl-Qubec/poster.jpg
   Tltoon:
     template:
       name: network
@@ -4759,26 +4269,11 @@ collections:
       name: network
       network: '674'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Tr3s/poster.jpg
-  Trans TV:
-    template:
-      name: network
-      network: '655'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Trans%20TV/poster.jpg
   Trans7:
     template:
       name: network
       network: '863'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Trans7/poster.jpg
-  Travel Channel:
-    template:
-      name: network
-      network: '209'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Travel%20Channel/poster.jpg
-  Travel Channel United Kingdom:
-    template:
-      name: network
-      network: '1187'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Travel%20Channel%20United%20Kingdom/poster.jpg
   Treehouse TV:
     template:
       name: network
@@ -4844,11 +4339,6 @@ collections:
       name: network
       network: '151'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/UTV/poster.jpg
-  Ukraine:
-    template:
-      name: network
-      network: '1625'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Ukraine/poster.jpg
   UniMs:
     template:
       name: network
@@ -4874,31 +4364,11 @@ collections:
       name: network
       network: '3412'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Universal%20TV/poster.jpg
-  Universo:
-    template:
-      name: network
-      network: '2486'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Universo/poster.jpg
   Univision:
     template:
       name: network
       network: 2447,28
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Univision/poster.jpg
-  Ustream:
-    template:
-      name: network
-      network: '2729'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Ustream/poster.jpg
-  V:
-    template:
-      name: network
-      network: '583'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/V/poster.jpg
-  V LIVE:
-    template:
-      name: network
-      network: '2433'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/V%20LIVE/poster.jpg
   VARA:
     template:
       name: network
@@ -4964,11 +4434,6 @@ collections:
       name: network
       network: '133'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Venevisin/poster.jpg
-  Veronica:
-    template:
-      name: network
-      network: '757'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Veronica/poster.jpg
   Via X:
     template:
       name: network
@@ -5169,26 +4634,6 @@ collections:
       name: network
       network: '710'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Yesterday/poster.jpg
-  Yle Areena:
-    template:
-      name: network
-      network: '2594'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Yle%20Areena/poster.jpg
-  Yle Fem:
-    template:
-      name: network
-      network: '1208'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Yle%20Fem/poster.jpg
-  Yle TV2:
-    template:
-      name: network
-      network: '995'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Yle%20TV2/poster.jpg
-  Yle Teema:
-    template:
-      name: network
-      network: '1885'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Yle%20Teema/poster.jpg
   Yomiuri Telecasting Corporation:
     template:
       name: network
@@ -5254,121 +4699,28 @@ collections:
       name: network
       network: '3132'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Zeus%20Network/poster.jpg
-  Zona Latina:
-    template:
-      name: network
-      network: '4967'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Zona%20Latina/poster.jpg
   Zvezda:
     template:
       name: network
       network: '1647'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/Zvezda/poster.jpg
-  addatimes:
-    template:
-      name: network
-      network: '3034'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/addatimes/poster.jpg
-  addikTV:
-    template:
-      name: network
-      network: '1281'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/addikTV/poster.jpg
-  antv:
-    template:
-      name: network
-      network: '852'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/antv/poster.jpg
-  atv:
-    template:
-      name: network
-      network: '36'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/atv/poster.jpg
-  bTV:
-    template:
-      name: network
-      network: '465'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/bTV/poster.jpg
-  bilibili:
-    template:
-      name: network
-      network: '1605'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/bilibili/poster.jpg
-  eltrece:
-    template:
-      name: network
-      network: '368'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/eltrece/poster.jpg
-  esk televize:
-    template:
-      name: network
-      network: '2617'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/esk%20televize/poster.jpg
-  eskoslovensk televize:
-    template:
-      name: network
-      network: '310'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/eskoslovensk%20televize/poster.jpg
-  funk:
-    template:
-      name: network
-      network: '1665'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/funk/poster.jpg
   fyi:
     template:
       name: network
       network: '1080'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/fyi/poster.jpg
-  go90:
-    template:
-      name: network
-      network: '1299'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/go90/poster.jpg
-  hr-fernsehen:
-    template:
-      name: network
-      network: '1033'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/hr-fernsehen/poster.jpg
+
   iQiyi:
     template:
       name: network
       network: '1330'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/iQiyi/poster.jpg
-  iTunes Store:
-    template:
-      name: network
-      network: '1377'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/iTunes%20Store/poster.jpg
-  ichannel:
-    template:
-      name: network
-      network: '1015'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ichannel/poster.jpg
-  iflix:
-    template:
-      name: network
-      network: '2224'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/iflix/poster.jpg
-  joyn:
-    template:
-      name: network
-      network: '3155'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/joyn/poster.jpg
-  kabel eins:
-    template:
-      name: network
-      network: '1110'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/kabel%20eins/poster.jpg
+
   ko:
     template:
       name: network
       network: '4037'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/ko/poster.jpg
-  laSexta:
-    template:
-      name: network
-      network: '1016'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/laSexta/poster.jpg
   mtmad:
     template:
       name: network
@@ -5384,16 +4736,6 @@ collections:
       name: network
       network: '2787'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/n-tv/poster.jpg
-  noovo.ca:
-    template:
-      name: network
-      network: '2408'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/noovo.ca/poster.jpg
-  nuvoTV:
-    template:
-      name: network
-      network: '793'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/nuvoTV/poster.jpg
   oksusu:
     template:
       name: network
@@ -5409,56 +4751,16 @@ collections:
       name: network
       network: '1283'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/sixx/poster.jpg
-  tagesschau24:
-    template:
-      name: network
-      network: '1893'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/tagesschau24/poster.jpg
   truTV:
     template:
       name: network
       network: '364'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/truTV/poster.jpg
-  tv asahi:
-    template:
-      name: network
-      network: '103'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/tv%20asahi/poster.jpg
-  tv5unis.ca:
-    template:
-      name: network
-      network: '3664'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/tv5unis.ca/poster.jpg
-  tvk:
+  tvk: #Japan
     template:
       name: network
       network: '792'
     url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/tvk/poster.jpg
-  tys:
-    template:
-      name: network
-      network: '2461'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/tys/poster.jpg
-  vasion:
-    template:
-      name: network
-      network: '1785'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/vasion/poster.jpg
-  vtm:
-    template:
-      name: network
-      network: 4730,556
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/vtm/poster.jpg
-  vtm 2:
-    template:
-      name: network
-      network: '4420'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/vtm%202/poster.jpg
-  watcha:
-    template:
-      name: network
-      network: '3898'
-    url_poster: https://github.com/Drapersniper/Posters/raw/main/networks/watcha/poster.jpg
   'yes':
     template:
       name: network

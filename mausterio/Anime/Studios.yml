@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@mausterio 
-mausterio
-/
-Plex-Meta-Manager-Configs
-Public
-forked from meisnate12/Plex-Meta-Manager-Configs
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-Plex-Meta-Manager-Configs/Draper/Anime/Studios.yml
-@Drapersniper
-Drapersniper tweaks to smart_label
-Latest commit d3f400c on Nov 14
- History
- 1 contributor
-3682 lines (3681 sloc)  106 KB
-   
 templates:
   Studio:
     mal_studio:
@@ -3708,16 +3680,3 @@ collections:
       template: {name: Studio, id: 1376}
   "Zyc":
       template: {name: Studio, id: 557}
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
